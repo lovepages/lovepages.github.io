@@ -1,7 +1,9 @@
-http://example.com/2024/07/02/%E5%90%BC-%E7%81%AB%E7%83%A7%E5%B1%81%E5%B1%81%E5%92%AF/
+http://example.com/2024/07/02/XXL-JOB%20%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%BF%9E%E6%8E%A5/
 http://example.com/friends/
 http://example.com/contact/
 http://example.com/about/
 http://example.com/tags/
 http://example.com/2024/07/01/hello-world/
 http://example.com/
+http://example.com/tags/tags/
+http://example.com/categories/categories/
