@@ -11,15 +11,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/2024/07/02/XXL-JOB%20%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%BF%9E%E6%8E%A5/</loc>
-    
-    <lastmod>2024-07-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/friends/</loc>
     
     <lastmod>2024-07-01</lastmod>
@@ -73,20 +64,6 @@
   </url>
 
   
-  <url>
-    <loc>http://example.com/tags/tags/</loc>
-    <lastmod>2024-07-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>http://example.com/categories/categories/</loc>
-    <lastmod>2024-07-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
 </urlset>
