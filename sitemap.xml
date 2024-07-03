@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2024/07/02/XXL-JOB%20%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%BF%9E%E6%8E%A5/</loc>
+    <loc>https://lovepages.github.io/2024/07/02/XXL-JOB%20%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%BF%9E%E6%8E%A5/</loc>
     
     <lastmod>2024-07-03</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/friends/</loc>
+    <loc>https://lovepages.github.io/friends/</loc>
     
     <lastmod>2024-07-01</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/contact/</loc>
+    <loc>https://lovepages.github.io/contact/</loc>
     
     <lastmod>2024-07-01</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/about/</loc>
+    <loc>https://lovepages.github.io/about/</loc>
     
     <lastmod>2024-07-01</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/</loc>
+    <loc>https://lovepages.github.io/tags/</loc>
     
     <lastmod>2024-07-01</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2024/07/01/hello-world/</loc>
+    <loc>https://lovepages.github.io/2024/07/01/hello-world/</loc>
     
     <lastmod>2024-07-01</lastmod>
     
@@ -57,7 +57,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://lovepages.github.io/</loc>
     <lastmod>2024-07-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -65,7 +65,7 @@
 
   
   <url>
-    <loc>http://example.com/tags/tags/</loc>
+    <loc>https://lovepages.github.io/tags/tags/</loc>
     <lastmod>2024-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -74,7 +74,7 @@
 
   
   <url>
-    <loc>http://example.com/categories/categories/</loc>
+    <loc>https://lovepages.github.io/categories/categories/</loc>
     <lastmod>2024-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
